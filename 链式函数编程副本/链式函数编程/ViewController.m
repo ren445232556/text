@@ -22,6 +22,9 @@
     person.run(1000).eat(@"blll").run(1000).eat(@"sn");
     
     person.run1(100).eat1(@"qqq").run1(500);
+    
+    self.view.backgroundColor = [UIColor yellowColor];
+    
 }
 
 
